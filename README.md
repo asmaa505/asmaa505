@@ -63,3 +63,13 @@
 <img src="https://raw.githubusercontent.com/asmaa505/asmaa505/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="output/github-contribution-grid-snake.svg" />
+</picture>
+
+###
+
