@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm obsessed with philosophy, music, and programming . On a journey of self-growth to be the better version of myself</p>
+<p align="left">I'm obsessed with philosophy, music, and programming . On a journey of self-growth to be better version of myself</p>
 
 ###
 
@@ -42,8 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmaa505/asmaa505/output/pacman-contribution-graph-dark.svg">
