@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm obsessed with philosophy, music, and programming . On a journey of self-growth to be better version of myself</p>
+<p align="center">I'm obsessed with philosophy, music, dancing , and programming . On a journey of self-growth to be better version of myself</p>
 
 ###
 
