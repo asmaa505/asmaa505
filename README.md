@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hiii, I am asmaa:
 obsessed with philosophy, music, dancing , and programming . On a journey of self-growth to be better version of myself
 
 
