@@ -27,7 +27,7 @@ obsessed with philosophy, music, dancing , and programming . On a journey of sel
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🧠 NLP
-![NLTK](https://img.shields.io/badge/NLTK-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=pink)
+![NLTK](https://img.shields.io/badge/NLTK-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=black)
 
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
