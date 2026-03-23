@@ -49,6 +49,9 @@ obsessed with philosophy, music, dancing , and programming . On a journey of sel
 ![](https://nirzak-streak-stats.vercel.app/?user=asmaa505&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa505&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🧠 NLP
+![NLTK](https://img.shields.io/badge/NLTK-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=asmaa505&icon=0&color=3)](https://visitcount.itsvg.in)
 
