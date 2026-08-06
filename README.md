@@ -1,4 +1,4 @@
-# 💫 Hiii, I am asmaa:
+# 💫 Hiii, I am memo:
 obsessed with philosophy, music, dancing , and programming . On a journey of self-growth to be better version of myself
 
 
