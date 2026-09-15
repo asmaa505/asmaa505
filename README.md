@@ -38,11 +38,11 @@ obsessed with philosophy, music, dancing , and programming . On a journey of sel
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaa505&theme=merko&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asmaa505&theme=merko&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=asmaa505&theme=merko&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa505&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmaa505&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
