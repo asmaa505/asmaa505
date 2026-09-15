@@ -64,14 +64,9 @@
 
 ---
 
-<div style="background-color: #12101a; padding: 20px; border-radius: 10px; border: 1px solid #2d2640; font-family: sans-serif;">
-  <p style="color: #58a6ff; font-size: 16px; font-style: italic; line-height: 1.6; margin: 0;">
-    “Talk is cheap. Show me the code.”
-  </p>
-  <p style="color: #ff7b72; text-align: right; font-size: 14px; font-style: italic; margin: 10px 0 0 0;">
-    - Linus Torvalds
-  </p>
-</div>
+> 💡 *“Talk is cheap. Show me the code.”*
+> 
+> — **Linus Torvalds**
 
 <div align="center">
 
