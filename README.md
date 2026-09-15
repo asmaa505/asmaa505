@@ -62,6 +62,10 @@
   <img src="https://streak-stats.demolab.com?user=asmaa505&theme=merko&hide_border=false" />
 </p>
 
+---
+
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+
 <div align="center">
 
 ---
