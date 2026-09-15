@@ -1,5 +1,5 @@
-# 💫 Hiii, I am memo:
-obsessed with philosophy, music, dancing , and programming . On a journey of self-growth to be better version of myself
+# 💫 Hiii, I am asmaa you can call me memo:
+Junior Software Engineer driven by a passion for continuous self-growth, turning logic and creativity into impactful digital experiences
 
 
 ## 🌐 Socials:
