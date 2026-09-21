@@ -38,8 +38,6 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-%23FF6F61.svg?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-%23232F3E.svg?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
