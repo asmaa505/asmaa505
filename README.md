@@ -3,7 +3,6 @@
 # 💫 Hiii, I am Asmaa, you can call me Memo!
 
 **Frontend Developer and Junior Software Engineer at Latif Tech**  
-*Where I'm one of the first two engineers building the company's core product from the ground up.*
 
 Computer Science & AI student at Damietta University.
 
