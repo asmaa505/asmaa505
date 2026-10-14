@@ -1,16 +1,18 @@
-<div>
+<div align="center">
 
-# 💫 Hiii, I am asmaa, you can call me memo!
+# 💫 Hiii, I am Asmaa, you can call me Memo!
 
+**Frontend Developer and Junior Software Engineer at Latif Tech**  
+*Where I'm one of the first two engineers building the company's core product from the ground up.*
 
-Frontend Developer and Junior Software Engineer at **Latif Tech**, where I'm one of the first two engineers building the company's core product from the ground up. I'm also a Computer Science & AI student at Damietta University.
+Computer Science & AI student at Damietta University.
 
 I build responsive, clean, user-focused interfaces, and I care about the details that make a product feel right.
 
-<div align="center">
+<br />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaa-maryah-86028a2b3)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmaaahmedt@gmail.com)
-</div>
 
 </div>
 
